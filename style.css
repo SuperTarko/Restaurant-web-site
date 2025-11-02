@@ -1,0 +1,48 @@
+h3 {
+  color: #e4514e;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  display: inline;
+  margin: 20px;
+}
+
+h3:hover {
+  transition: 0.5s;
+  font-size: 70px;
+  letter-spacing: 2px;
+}
+
+ul {
+  list-style-type: none;
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  display: inline;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 150px;
+  padding-bottom: 20px;
+}
+
+li:hover {
+  font-size: 25px;
+  transition: 0.5s;
+  background-color: #7777770a;
+  border-radius: 20px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  padding: 25px;
+}
+
+p {
+  color: #e4514e;
+  padding: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+}
